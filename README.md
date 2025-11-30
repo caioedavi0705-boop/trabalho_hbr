@@ -1,0 +1,1 @@
+Esse repositório contém o arquivo .ipynb com o algoritmo, além dos arquivos .txt do conjunto de dados. O train_FD001 corresponde aos dados de treino, o test_FD001 corresponde aos dados de teste, e o RUL_FD001 os valores de RUL esperados.
